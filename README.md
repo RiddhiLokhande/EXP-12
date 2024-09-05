@@ -1,3 +1,4 @@
+
 # EXP-12
 ## Aim
 
@@ -34,6 +35,10 @@ created previously is known as a copy constructor.
 
 (A) <br> 
 ```cpp
+//NAME-RIDDHI LOKHANDE
+//ENTC B2
+//23070123107
+//EXP 12 A
 #include<iostream> 
 #include<string>
 using namespace std; 
@@ -71,6 +76,10 @@ int main()
 
 (B) <br> 
 ```cpp
+//NAME-RIDDHI LOKHANDE
+//ENTC B2
+//23070123107
+//EXP 12 B
 #include<iostream>
 using namespace std;
 class Num
@@ -99,6 +108,10 @@ int main()
 
 (C) <br> 
 ```cpp
+//NAME-RIDDHI LOKHANDE
+//ENTC B2
+//23070123107
+//EXP 12 C
 #include<iostream>
 using namespace std;
 int count=0;
