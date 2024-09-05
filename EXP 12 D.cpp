@@ -1,3 +1,6 @@
+//RIDDHI LOKHANDE
+//EXP 12 D
+//23070123107
 #include<iostream>
 using namespace std;
 class student
