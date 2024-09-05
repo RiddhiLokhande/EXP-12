@@ -22,9 +22,11 @@ declared in the private section of the class.
 ### TYPES OF CONSTRUCTORS:
 • Default Constructor 🡪 Default constructor is the constructor which doesn’t take any
 argument. It has no parameters. It is also called a zero-argument constructor.
+
 • Parametrized Constructor 🡪 To create a parameterized constructor, simply add
 parameters to it the way you would to any other function. When you define the
 constructor’s body, use the parameters to initialize the object.
+
 • Copy Constructor 🡪 A copy constructor is a member function that initializes an
 object using another object of the same class. In simple terms, a constructor which
 creates an object by initializing it with an object of the same class, which has been
