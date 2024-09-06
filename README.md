@@ -12,12 +12,18 @@ You need to have a C++ compiler installed on your system. Common options include
 
 ## Theory
 • The name of the constructor is same as its class name.
+
 • Constructors are mostly declared in the public section of the class though it can be
 declared in the private section of the class.
+
 • Constructors do not return values; hence they do not have a return type.
+
 • A constructor gets called automatically when we create the object of the class.
+
 • Constructors are used when variables need to be initiated before object is called.
+
 • Constructors can be overloaded.
+
 • Constructor cannot be declared virtual.
 
 ### TYPES OF CONSTRUCTORS:
